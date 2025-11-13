@@ -1,0 +1,29 @@
+body { 
+        font-family: Arial, sans-serif; 
+        padding: 20px; 
+    }
+    .question { 
+        margin-bottom: 20px; 
+    }
+    .result { 
+        font-weight: bold; 
+        margin-top: 20px; 
+    }
+    .pass { 
+        color: green; 
+    }
+    .fail { 
+        color: red; 
+    }
+    label {
+         display: block; 
+         margin-left: 10px; 
+        }
+    button{
+        background-color: blue; 
+        color: white; 
+        border-radius: 10px;
+    }
+    button:hover{
+        color: rgb(48, 34, 137);
+    }
